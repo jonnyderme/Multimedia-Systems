@@ -57,3 +57,15 @@ Implemented low-level modules for:
 ---
 
 ## 📁 Repository Structure
+```
+├── Assignment/
+│   └── itu-t81.pdf                            # JPEG specification reference document
+│   └── auth_multimedia_2023_2024_hw1.pdf      # Assignment
+├── Code/
+│   └── Multimedia_Project_Deirmentzoglou_Ioannis_10015.py   # Python implementation of the JPEG pipeline
+├── Images/
+│   └── lena_color_512.png                     # Input test image used for compression
+│   └── baboon_512.png                     # Input test image used for compression
+├── Auth_Multimedia_Systems_Project.ipynb      # Main Colab notebook
+└── README.md                                   # This documentation
+```
